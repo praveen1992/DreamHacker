@@ -22,7 +22,31 @@ Then after a while start the audio stimulus.
 
 [Instagram](https://www.instagram.com/proj_dreamhacker/)
 
-
+<!-- TOC -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#about">About</a>
+      <ul>
+        <li><a href="#hardware">Hardware</a></li>
+        <li><a href="#software">Software</a></li>
+        <li><a href="#roadmap">Roadmap</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+        <li><a href="#usage">Usage</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
 <!-- Project descirption -->
 ## About
