@@ -197,20 +197,20 @@ a:focus {
 }
 
 .header.header-scrolled .main-nav .nav .nav-link {
-  color: #a2a6af;
+  color: #121416;
 }
 
 .header.header-scrolled .main-nav .nav .nav-link:hover {
-  color: #9499a3;
+  color: #121416;
 }
 
 .header.header-scrolled .main-nav .nav .nav-link.active {
-  color: #494d55;
+  color: #121416;
   border-bottom: 4px solid #40babd;
 }
 
 .header a {
-  color: #fff;
+  color: #121416;
   -webkit-transition: none;
   -moz-transition: none;
   -ms-transition: none;
@@ -284,7 +284,7 @@ a:focus {
 }
 
 .main-nav .navbar-toggler:hover .icon-bar {
-  background-color: #fff;
+  background-color: #121416;
 }
 
 .main-nav .nav .nav-item {
@@ -294,7 +294,7 @@ a:focus {
 }
 
 .main-nav .nav .nav-item .nav-link {
-  color: rgba(255, 255, 255, 0.65);
+  color: #121416;
   font-weight: 700;
 }
 
@@ -336,7 +336,7 @@ a:focus {
 .footer {
   background: #26282c;
   color: rgba(255, 255, 255, 0.6);
-  padding: 15px 0;
+  
 }
 
 .footer a {
@@ -415,10 +415,12 @@ a:focus {
   font-weight: bold;
   margin-top: 0;
   margin-bottom: 15px;
+  color: #000000;
 }
 
 .hero-carousel .carousel-inner .intro {
   font-size: 18px;
+  color: #000000;
 }
 
 .hero-carousel .carousel-inner .intro + .btn {
@@ -435,10 +437,11 @@ a:focus {
   margin-bottom: 15px;
   font-size: 36px;
   font-weight: 300;
+  color: #000000;
 }
 
 .about-section .intro {
-  color: #a2a6af;
+  color: #000000;
   font-size: 16px;
   max-width: 760px;
   margin: 0 auto;
@@ -555,7 +558,7 @@ a:focus {
   margin-bottom: 30px;
   font-size: 36px;
   font-weight: 300;
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .testimonials-section .item {
@@ -648,10 +651,11 @@ a:focus {
   margin-bottom: 15px;
   font-size: 36px;
   font-weight: 300;
+  color: #000000;
 }
 
 .features-section .intro {
-  color: #a2a6af;
+  color: #000000;
   font-size: 16px;
   max-width: 760px;
   margin: 0 auto;
@@ -659,11 +663,11 @@ a:focus {
 }
 
 .features-section .intro a {
-  color: #797f8b;
+  color: #000000;
 }
 
 .features-section .intro a:hover {
-  color: #494d55;
+  color: #000000;
 }
 
 .feature-nav {
@@ -675,7 +679,7 @@ a:focus {
   position: relative;
   background: none;
   padding: 10px 0;
-  color: #616670;
+  color: #000000;
   font-size: 16px;
 }
 
@@ -709,6 +713,7 @@ a:focus {
   margin-bottom: 15px;
   font-size: 36px;
   font-weight: 300;
+  color: #000000;
 }
 
 .pricing-section .intro {
@@ -945,6 +950,9 @@ a:focus {
 .contact-section {
   padding-top: 90px;
   padding-bottom: 90px;
+  position: relative;
+  left: 0;
+  bottom: 0;
   background: #494d55 url("../images/map.png") no-repeat center center;
   color: #fff;
 }

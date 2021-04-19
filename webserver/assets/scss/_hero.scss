@@ -37,7 +37,7 @@
         }
         .item-1 {
             background-image: url('../images/hero-1.jpg');
-            @include background-size(cover);
+            @include background-size(fit);
         }
         .item-2 {
             background-image: url('../images/hero-2.jpg');
