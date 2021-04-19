@@ -1,4 +1,4 @@
-main
+.project
 cmake_install.cmake
 CMakeFiles/
 tags
@@ -7,5 +7,7 @@ CTestTestfile.cmake
 main_autogen/
 pul
 screenshot.png
-main
 libcpptimer.a
+Makefile
+drmhk
+Makefile
